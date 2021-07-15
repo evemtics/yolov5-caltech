@@ -1,0 +1,3 @@
+# yolov5-caltech
+对yolov5的特征金字塔做了改进
+并使用了Caltech中的person目标进行了训练
